@@ -8,7 +8,7 @@ Saya adalah seorang pengembang yang percaya bahwa teknologi harus menjadi jembat
 ### 📂 Proyek Unggulan (Featured Projects)
 
 #### 🛡️ [VeriFi - Smart Verification Agent](https://github.com/zetrosoft/verifi-app)
-VeriFi adalah solusi verifikasi pintar yang memenangkan apresiasi di ajang **Hack2Build: Payments x402** oleh Avalanche Foundation. Proyek ini mengintegrasikan AI Agent dengan protokol blockchain (Avalanche x402 & ERC8004) untuk menciptakan sistem pembayaran dan verifikasi data yang otonom, aman, dan dapat dilacak di atas rantai (on-chain).
+VeriFi adalah solusi verifikasi pintar : ** Payments x402 - ERC8004 protocol**. Proyek ini mengintegrasikan AI Agent dengan protokol blockchain (Avalanche x402 & ERC8004) untuk menciptakan sistem pembayaran dan verifikasi data yang otonom, aman, dan dapat dilacak di atas rantai (on-chain).
 
 #### 📊 ERPNext Customisation & Enterprise Apps
 Optimalisasi sistem manajemen perusahaan melalui ekosistem Frappe/ERPNext untuk efisiensi operasional yang maksimal:
