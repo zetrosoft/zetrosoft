@@ -1,20 +1,20 @@
-# 👋 Halo, Saya Zetrosoft (Zetrogede)
+# 👋 Hi, I'm Zetrosoft (Zetrogede)
 ### 🚀 Software Architect | ERP Specialist | Web3 & AI Developer
 
-Saya adalah seorang pengembang yang percaya bahwa teknologi harus menjadi jembatan antara kompleksitas masalah dan kemudahan solusi. Dengan latar belakang kuat di industri **ERP** dan kini merambah ke dunia **Decentralized Apps (Web3)**, saya membangun sistem yang tidak hanya berfungsi, namun juga memiliki integritas tinggi dan transparansi.
+I am a developer who believes that technology should serve as a bridge between complex problems and seamless solutions. With a strong foundation in the **ERP** industry and an expanding expertise in **Decentralized Applications (Web3)**, I build systems that are not only functional but also rooted in high integrity and transparency.
 
 ---
 
-### 📂 Proyek Unggulan (Featured Projects)
+### 📂 Featured Projects
 
 #### 🛡️ [VeriFi - Smart Verification Agent](https://github.com/zetrosoft/verifi-app)
-VeriFi adalah solusi verifikasi pintar : ** Payments x402 - ERC8004 protocol**. Proyek ini mengintegrasikan AI Agent dengan protokol blockchain (Avalanche x402 & ERC8004) untuk menciptakan sistem pembayaran dan verifikasi data yang otonom, aman, dan dapat dilacak di atas rantai (on-chain).
+VeriFi is a smart verification solution built on the **Payments x402 - ERC8004 protocol**. This project integrates AI Agents with blockchain protocols (Avalanche x402 & ERC8004) to create an autonomous, secure, and on-chain traceable payment and data verification system.
 
-#### 📊 ERPNext Customisation & Enterprise Apps
-Optimalisasi sistem manajemen perusahaan melalui ekosistem Frappe/ERPNext untuk efisiensi operasional yang maksimal:
-- **Sales Monitor**: Dasbor analitik untuk memantau performa penjualan secara real-time, membantu pengambilan keputusan strategis berbasis data.
-- **Finance-app**: Modul kustomisasi akuntansi untuk menyelaraskan laporan keuangan dengan standar akuntansi lokal dan kebutuhan spesifik perusahaan.
-- **Employee Portal**: Platform mandiri karyawan untuk manajemen kehadiran, pengajuan cuti, dan administrasi internal dengan antarmuka yang modern.
+#### 📊 ERPNext Customization & Enterprise Apps
+Optimizing corporate management systems through the Frappe/ERPNext ecosystem for maximum operational efficiency:
+- **Sales Monitor**: A real-time analytical dashboard to track sales performance, enabling data-driven strategic decision-making.
+- **Finance-app**: Custom accounting modules designed to align financial reporting with local standards and specific corporate requirements.
+- **Employee Portal**: A self-service platform for employees to manage attendance, leave requests, and internal administration with a modern interface.
 
 ---
 
@@ -26,20 +26,20 @@ Optimalisasi sistem manajemen perusahaan melalui ekosistem Frappe/ERPNext untuk 
 
 ---
 
-### ✍️ Pemikiran di Balik Kode
-Saya mendokumentasikan perjalanan teknis dan pandangan saya mengenai tren industri di **[Medium: Zetrosoft](https://zetrosoft.medium.com)**. Bagi saya, berbagi pengetahuan adalah cara terbaik untuk terus tumbuh di industri yang bergerak sangat cepat ini.
+### ✍️ Thoughts Behind the Code
+I document my technical journey and industry insights on **[Medium: Zetrosoft](https://zetrosoft.medium.com)**. To me, sharing knowledge is the best way to grow within an industry that evolves at lightning speed.
 
 ---
 
-### 📖 Mari Berproses Bersama
-Setiap baris kode yang saya tulis bermula dari sebuah cerita: tentang bisnis yang ingin bertransformasi, sistem yang menuntut transparansi, atau ide baru yang ingin mendobrak batasan. Saya tidak melihat diri saya hanya sebagai seorang teknisi, melainkan sebagai partner diskusi yang siap menyelami visi dan tantangan yang Anda hadapi.
+### 📖 Let's Build the Story Together
+Every line of code I write starts with a story: a story about a business looking to transform, a system demanding transparency, or a fresh idea aiming to break boundaries. I don’t see myself merely as a technician, but as a strategic partner ready to dive deep into your vision and challenges.
 
-Dunia sedang bergerak menuju otomatisasi cerdas dan sistem terdesentralisasi. Entah itu memperkuat fondasi ERP perusahaan Anda atau membangun masa depan melalui Web3 dan AI, saya siap membawa pengalaman dan dedikasi saya untuk mewujudkan solusi yang berdampak bagi tim Anda. Mari kita duduk bersama dan mulai menulis kisah sukses teknologi Anda selanjutnya.
+The world is shifting toward intelligent automation and decentralized systems. Whether it’s strengthening your company’s ERP foundation or building the future through Web3 and AI, I am ready to bring my experience and dedication to deliver impactful solutions for your team. Let’s sit down and start writing your next technological success story.
 
-- 🌐 **Inisiatif Saya**: [samkarsa.com](https://samkarsa.com) & [bijaktechno.com](https://bijaktechno.com)
+- 🌐 **My Initiatives**: [samkarsa.com](https://samkarsa.com) & [bijaktechno.com](https://bijaktechno.com)
 - 💼 **LinkedIn**: [linkedin.com/in/zetrosoft](https://linkedin.com/in/zetrosoft)
 - 📧 **Email**: kontak@zetrosoft.com
-- 📍 **Based in**: Boyolali, Indonesia (Remote Worldwide)
+- 📍 **Based in**: Boyolali, Indonesia (Available for Remote Worldwide)
 
 ---
 <p align="center">
