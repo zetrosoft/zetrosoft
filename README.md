@@ -38,10 +38,4 @@ The world is shifting toward intelligent automation and decentralized systems. W
 
 - 🌐 **My Initiatives**: [samkarsa.com](https://samkarsa.com) & [bijaktechno.com](https://bijaktechno.com)
 - 💼 **LinkedIn**: [linkedin.com/in/zetrosoft](https://linkedin.com/in/zetrosoft)
-- 📧 **Email**: kontak@zetrosoft.com
-- 📍 **Based in**: Boyolali, Indonesia (Available for Remote Worldwide)
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zetrosoft&show_icons=true&theme=radical&count_private=true" alt="Zetrosoft Stats" />
-</p>
