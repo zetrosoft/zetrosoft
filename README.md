@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zetrosoft (Zetrogede)
+# 👋 Hi, I'm Zetrosoft (samkarsa.com)
 ### 🚀 Software Architect | ERP Specialist | Web3 & AI Developer
 
 I am a developer who believes that technology should serve as a bridge between complex problems and seamless solutions. With a strong foundation in the **ERP** industry and an expanding expertise in **Decentralized Applications (Web3)**, I build systems that are not only functional but also rooted in high integrity and transparency.
