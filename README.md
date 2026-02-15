@@ -36,6 +36,6 @@ Every line of code I write starts with a story: a story about a business looking
 
 The world is shifting toward intelligent automation and decentralized systems. Whether it’s strengthening your company’s ERP foundation or building the future through Web3 and AI, I am ready to bring my experience and dedication to deliver impactful solutions for your team. Let’s sit down and start writing your next technological success story.
 
-- 🌐 **My Initiatives**: [samkarsa.com](https://samkarsa.com) & [bijaktechno.com](https://bijaktechno.com)
-- 💼 **LinkedIn**: [linkedin.com/in/zetrosoft](https://linkedin.com/in/zetrosoft)
+- 🌐 **My Initiatives**: [samkarsa.com](https://samkarsa.com) & [bijaktechno.com](https://bijaktechnology.com)
+- 💼 **LinkedIn**: [linkedin.com/in/zetrosoft](https://linkedin.com/in/iswanputera)
 
